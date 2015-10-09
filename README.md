@@ -1,6 +1,6 @@
 ![m6_icon.png](http://i.imgur.com/aw2NJOC.png) 
 
-A beautiful, responsive theme developed to be a perfect experience no matter what device it's viewed on. We picked color schemes and an appropriate font family comfortable to the eye with a mobile first approach down to the last pixel.
+A beautiful, responsive theme developed to be an awesome experience no matter what device it's viewed on. We picked color schemes and an appropriate font family comfortable to the eye with a mobile first approach down to the last pixel.
 
 
 Contributing
