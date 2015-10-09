@@ -1,4 +1,3 @@
-
 ![m6_icon.png](http://i.imgur.com/aw2NJOC.png) 
 [![Build Status](https://travis-ci.org/cnvo/nodebb-majestic.svg)](https://travis-ci.org/cnvo/nodebb-majestic)
 
@@ -20,7 +19,8 @@ Majestic requires the following software to be installed:
 
 NodeBB expects any installed themes to be installed via `npm`. 
 You can install Majestic through the command line by using the following command:
-`npm install nodebb-theme-majestic`
+
+![m6_npm.png](http://i.imgur.com/NWkGZNO.png) 
 
 ## Configuration
 (WIP)
