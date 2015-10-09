@@ -1,3 +1,5 @@
+![m6_contrib.png](http://i.imgur.com/Xp5Bu6d.png)
+
 # Contributing to Majestic
 
 Please take a moment to review this document in order to make the contribution 
