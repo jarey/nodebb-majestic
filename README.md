@@ -1,4 +1,6 @@
+
 ![m6_icon.png](http://i.imgur.com/aw2NJOC.png) 
+[![Build Status](https://travis-ci.org/cnvo/nodebb-majestic.svg)](https://travis-ci.org/cnvo/nodebb-majestic)
 
 A beautiful, responsive theme developed to be an awesome experience no matter what device it's viewed on. We picked color schemes and an appropriate font family comfortable to the eye with a mobile first approach down to the last pixel.
 
