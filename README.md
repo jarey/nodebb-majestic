@@ -41,7 +41,7 @@ You now have all the necessary dependencies to run the build process.
 
 ### Contributing
 
-Interested in contributing to Majestic? Great! Contributions are welcome, and are accepted via pull requests. Please [review these guidelines](https://github.com/cnvo/nodebb-majestic/blob/master/CONTRIBUTING.md) before submitting any pull requests.
+Interested in contributing to Majestic? Contributions are welcome, and are accepted via pull requests. Please [review these guidelines](https://github.com/cnvo/nodebb-majestic/blob/master/CONTRIBUTING.md) before submitting any pull requests.
 
 ### License
 Code licensed under [MIT](https://github.com/cnvo/nodebb-majestic/blob/master/LICENSE), documentation under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
